@@ -1,0 +1,31 @@
+.bg-red {
+    background-color: red;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+#title-dartvader {
+    font-size: 25px;
+}
+
+#title-luke {
+    font-style: italic;
+}
+
+.border-dashed-1 {
+    border: 2px dashed white;
+}
+
+.letter-spacing-1 {
+    letter-spacing: 5px;
+}
+
+.text-align-1 {
+    text-align: center;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
